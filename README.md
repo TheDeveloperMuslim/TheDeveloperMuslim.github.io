@@ -1,3 +1,4 @@
+my website https://thedevelopermuslim.github.io
 <h2>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ<br>قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ [ البقرة: 32]</h2>
 <h2>In the Name of Allah, the Most Beneficent, the Most Merciful.<br>They said, "Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise." [Surah Al-Baqarah - 32]</h2>
 <img class="img" src="assets/img/SurahAlBaqrah-Ayah-32.png"></a></div>
@@ -70,3 +71,10 @@ Country Support: Currently supports Egypt (Cairo) & Egypt (Alexandria), offline 
 <img class="img" src="assets/img/PrayerReminderAboutTAB.png"></a></div>
 <img class="img" src="assets/img/PrayerReminderChangeLogTAB.png"></a></div>
 <img class="img" src="assets/img/PrayerReminderTodayTAB.png"></a></div></div>
+<h4>---------------------------------------------------------------------------------------</h4>
+<h4>Donwload</h4>
+Prayer Reminder V0.1 - First Version<br>
+Supports Egypt (Cairo) & (Alexandria) only<br>
+Keeps working offline till 7-05-2027<br>
+Don't forget me in your prayer<br>
+Download from here : https://thedevelopermuslim.github.io/assets/Prayer%20Reminder.zip
