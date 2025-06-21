@@ -1,8 +1,5 @@
-<h1>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
-  <br>
-In the Name of Allah<br>the Most Beneficent<br>the Most Merciful.</h1>
-<h2>قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ [ البقرة: 32]</h2>
-<h2>They said, "Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise." [Surah Al-Baqarah - 32]</h2>
+<h2>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ<br>قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ [ البقرة: 32]</h2>
+<h2>In the Name of Allah, the Most Beneficent, the Most Merciful.<br>They said, "Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise." [Surah Al-Baqarah - 32]</h2>
 <img class="img-fluid" src="assets/img/SurahAlBaqrah-Ayah-32.png"></a></div>
 <h4>Alhamdulillah for the Most Beneficent, the Most Merciful who made me learn<br> and teached me and made me make this app to be useful to all my muslims brothers.</h4>
 <h1>Prayer Reminder</h1>
@@ -12,7 +9,7 @@ In the Name of Allah<br>the Most Beneficent<br>the Most Merciful.</h1>
   Requires .NET Framework 4.0 or 4.5 and Higher
   <br>
   <br>
-Supports the following operating systems
+Supports the following operating systems:
   <br>
 Windows XP
   <br>
