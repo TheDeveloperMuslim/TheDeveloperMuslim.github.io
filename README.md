@@ -35,6 +35,7 @@ Fully Automatic: Automatically enables selected features.
 Fully Offline: Utilizes an offline database for prayer times, requiring no internet connection.
   <br>
 Notifications: Sends reminders before each prayer with sound alerts, then plays azan at prayer time.
+when it plays reminder sound notification or azan sound notification, any kind of playing sound that are not from prayer reminder will be stopped and be unplayable or unhearable while prayer reminder sound notification is playing, after prayer reminder sound notification finishes playing, anything else after it will be playable and hearable<br>(so if any sound were playing and then its time for a reminder sound notification or azan sound notification prayer reminder will take all the system sound output to itself only, stopping anything else playing and preventing anything to play or be hearable except for itself till it finishes playing the sound notification.)
   <br>
 Background Operation: Runs in the background, then be accessible via the taskbar icon.
   <br>
