@@ -1,4 +1,4 @@
-my website https://thedevelopermuslim.github.io
+# Prayer-Reminder - Made By Muslim - https://thedevelopermuslim.github.io/
 <h2>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ<br>قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ [ البقرة: 32]</h2>
 <h2>In the Name of Allah, the Most Beneficent, the Most Merciful.<br>They said, "Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise." [Surah Al-Baqarah - 32]</h2>
 <img class="img" src="assets/img/SurahAlBaqrah-Ayah-32.png"></a></div>
